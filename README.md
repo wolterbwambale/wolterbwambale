@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 =============================================================================================================================================
 FullStack Developer
 -------------------
-I am a skilled Full-Stack Software Developer with expertise in JavaScript, Ruby on Rails, React,Vue ,Next.js and HTML/CSS/SASS. My experience enables me to create comprehensive and efficient applications that seamlessly integrate both front-end and back-end functionalities.
+I am a skilled Full-Stack Software Developer with expertise in JavaScript,Ruby, Ruby on Rails,Python,Java, React,Vue ,Next.js and HTML/CSS/SASS. My experience enables me to create comprehensive and efficient applications that seamlessly integrate both front-end and back-end functionalities.
 * 🌍  I'm based in kampala-Uganda
 * 🖥️  See my portfolio at [Bwambale](http://https://wolterbwambale.github.io/mobile-portfolio/)
 * ✉️  You can contact me at [benplaan1@gmail.com](mailto:benplaan1@gmail.com)
